@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatalogoProduto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Codigo">Codigo</string>
+    <string name="Nome">Nome</string>
+    <string name="Estoque">Estoque</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Preco">Preco</string>
+    <string name="Salvar">Salvar</string>
+    <string name="novaCategoria">Nova Categoria</string>
+    <string name="title_activity_categoria">CategoriaActivity</string>
+    <string name="Descricao">Descricao</string>
+    <string name="Cor">Cor</string>
+
+</resources>
